@@ -9,6 +9,6 @@ B b=new B();
 System.out.println("sum:"+a.sum(10, 20));
 System.out.println("sub:"+b.sub(30,10));
 	}
-	//hello1
+
 
 }
