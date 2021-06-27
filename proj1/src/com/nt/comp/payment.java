@@ -5,4 +5,5 @@ public String payment(int accNo,int money)
 {
 	return "payment completed";
 }
+//payment completed
 }
